@@ -1,2 +1,8 @@
-# react-native-recipes
-A curated list of React Native recipes to rock your next native app
+React Native recipes
+=====================
+
+> A curated list of React Native recipes to make you develop stunning apps faster
+
+### List
+
+### Contributing
